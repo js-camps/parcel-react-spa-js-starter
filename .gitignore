@@ -20,6 +20,7 @@ lerna-debug.log*
 /.parcel-cache
 /dist
 /.pnp
+/.npm
 .pnp.js
 
 # Editor directories and files
